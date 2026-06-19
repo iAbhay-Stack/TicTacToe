@@ -87,12 +87,3 @@ Through this project, I gained practical experience in:
 * User Input Validation
 * C++ Programming Fundamentals
 
----
-
-## Author
-
-**Abhay Singh Rajawat**
-
-GitHub: Add Your GitHub Profile Link Here
-
-LinkedIn: Add Your LinkedIn Profile Link Here
