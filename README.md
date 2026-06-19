@@ -56,26 +56,6 @@ g++ TicTacToe.cpp -o TicTacToe
 
 ---
 
-## Project Structure
-
-Tic-Tac-Toe-Game/
-
-├── TicTacToe.cpp
-
-├── README.md
-
-└── Screenshots/
-
-    ├── start_game.png
-
-    ├── player_moves.png
-
-    ├── winner.png
-
-    └── replay.png
-
----
-
 ## Learning Outcomes
 
 Through this project, I gained practical experience in:
